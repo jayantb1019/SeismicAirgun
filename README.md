@@ -18,3 +18,5 @@ MATLAB code for modeling seismic airgun and bubble dynamics with a lumped parame
 
 * Leighton Watson: leightonwatson@stanford.edu
 
+### More information can be found at ###
+* http://ua.citg.tudelft.nl/datasets.html
